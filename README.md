@@ -20,7 +20,8 @@
 
 ### PROFESSIONAL EXPERIENCE
 
-#### Client: Fulcrum Digital,New York                                                                                                                               Nov 2023 - Present
+#### Client: Fulcrum Digital,New York
+#### Period: Nov 2023 - Present
 #### Role: Java Full Stack Developer
 #### Responsibilities:
  
@@ -38,7 +39,8 @@
   -	Orchestrated services with Kubernetes, ensuring high availability and fault tolerance.
  
 
-#### Client: Beckton,Dickinson and Company, Madison, GA                                                                                                                Sept 2022 - Oct 2023
+#### Client: Beckton,Dickinson and Company, Madison, GA                                                                                                                
+#### Period: Sept 2022 - Oct 2023
 #### Role: Full Stack Developer
 #### Responsibilities:
 
@@ -55,7 +57,8 @@
   -	Designed and optimized PostgreSQL and MongoDB databases for structured and unstructured data storage.
   -	Reduced device failure rates by 30% through real-time monitoring and proactive maintenance.
 
-#### Client: Pheonix Global,Hyderabad,India                                                                                                                            April 2021 - July 2022
+#### Client: Pheonix Global,Hyderabad,India                                                                                                                            
+#### Period: April 2021 - July 2022
 #### Role: Software Developer
 #### Responsibilites: 
   
@@ -69,7 +72,8 @@
   -	Utilized Maven and Gradle for efficient dependency management and build automation.
   -	Automated CI/CD pipelines using Jenkins, reducing deployment time by 40%.
 
-#### Client: Symbiosis, Visakhapatnam, India                                                                                                                          March 2019 - March 2021 
+#### Client: Symbiosis, Visakhapatnam, India                                                                                                                          
+#### Period: March 2019 - March 2021 
 #### Role: Intern
 #### Responsibilities:
   
@@ -79,9 +83,8 @@
   -	Developed a robust application framework with Java, Spring, Hibernate, and Log4J to support scalable and efficient application architecture and logging.
 
 ### EDUCATION
-
-  #### Master of Science, Computer Science 
-    - University of Dayton,USA
+#### Master of Science, Computer Science 
+   University of Dayton,USA
   
 
 
