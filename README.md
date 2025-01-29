@@ -1,4 +1,4 @@
-### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
   -	Over 5 years of professional experience as a Java Full-Stack Developer, specializing in developing enterprise-grade, scalable, and high-performing applications.
   -	Strong expertise in backend development using Java, Spring Boot, Spring MVC, and Hibernate, with a focus on creating RESTful APIs and microservices.
@@ -9,7 +9,7 @@
   -	Proficient in containerization technologies like Docker and orchestration tools like Kubernetes, enabling seamless deployment and scalability of applications.
   -	Automated build, test, and deployment processes using Jenkins, GitLab CI/CD, and Terraform, achieving 50% faster deployment cycles.
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
   - Methodologies:	Software Development Life Cycle (SDLC), Agile, Waterfall, Scrum, TDD
   - Programming Languages:	C, C++, Java, JavaScript, Python, SQL
@@ -18,7 +18,7 @@
   - Messaging and Streaming Systems: Active MQ, JMS, SQS, and Apache Kafka
   - Database Technologies:	MySQL, Postgres, Oracle, DB2, MongoDB
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 #### Client: Fulcrum Digital,New York
 #### Period: Nov 2023 - Present
@@ -82,7 +82,7 @@
   -	Built the service and domain layers using Spring Framework modules such as Core-IOC and AOP, facilitating dependency injection and aspect-oriented programming for modular and maintainable    code.
   -	Developed a robust application framework with Java, Spring, Hibernate, and Log4J to support scalable and efficient application architecture and logging.
 
-### EDUCATION
+## EDUCATION
 #### Master of Science, Computer Science 
    University of Dayton,USA
   
