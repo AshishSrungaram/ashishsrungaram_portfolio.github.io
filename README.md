@@ -1,4 +1,4 @@
-Professional Summary
+# Professional Summary
 
   -	Over 5 years of professional experience as a Java Full-Stack Developer, specializing in developing enterprise-grade, scalable, and high-performing applications.
   -	Strong expertise in backend development using Java, Spring Boot, Spring MVC, and Hibernate, with a focus on creating RESTful APIs and microservices.
@@ -24,7 +24,7 @@ Professional Summary
   -	Passionate about continuous learning and staying updated with emerging technologies like GraphQL, Serverless Architecture, and WebAssembly.
   -	Demonstrated strong problem-solving skills and a results-oriented mindset, consistently delivering projects that align with business goals and enhance user experiences.
 
-Technical Skills
+### Technical Skills
 
   - Methodologies:	Software Development Life Cycle (SDLC), Agile, Waterfall, Scrum, TDD
   - Programming Languages:	C, C++, Java, JavaScript, Python, SQL
