@@ -1,5 +1,3 @@
-Java Full stack Developer
-
 Professional Summary
 
   -	Over 5 years of professional experience as a Java Full-Stack Developer, specializing in developing enterprise-grade, scalable, and high-performing applications.
