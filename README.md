@@ -1,4 +1,4 @@
-# Professional Summary
+## PROFESSIONAL SUMMARY
 
   -	Over 5 years of professional experience as a Java Full-Stack Developer, specializing in developing enterprise-grade, scalable, and high-performing applications.
   -	Strong expertise in backend development using Java, Spring Boot, Spring MVC, and Hibernate, with a focus on creating RESTful APIs and microservices.
@@ -8,23 +8,8 @@
   -	Hands-on experience in developing cloud-native solutions, deploying applications on platforms like AWS (EC2, RDS, Lambda), Azure, and Google Cloud Platform (GCP).
   -	Proficient in containerization technologies like Docker and orchestration tools like Kubernetes, enabling seamless deployment and scalability of applications.
   -	Automated build, test, and deployment processes using Jenkins, GitLab CI/CD, and Terraform, achieving 50% faster deployment cycles.
-  -	Implemented Infrastructure-as-Code (IaC) with Terraform and Ansible, ensuring consistency and repeatability in infrastructure provisioning.
-  -	Strong focus on security with hands-on experience in implementing Spring Security, JWT, OAuth2, and enforcing Role-Based Access Control (RBAC).
-  -	Experienced in logging and monitoring tools like ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, and Grafana, ensuring real-time visibility into application performance.
-  - Built predictive analytics and anomaly detection systems using TensorFlow and Scikit-learn, leading to a 30% reduction in system downtime.
-  -	Adept at using Agile methodologies (Scrum, Kanban) and collaboration tools like JIRA, Confluence, and Slack to deliver high-quality software in iterative cycles.
-  -	Experience in version control systems like Git, GitHub, and Bitbucket, ensuring efficient team collaboration and codebase management.
-  -	Familiarity with DevSecOps practices, integrating security at every stage of the development lifecycle and conducting vulnerability assessments.
-  -	Optimized system performance by identifying bottlenecks, enhancing caching strategies with Redis and Memcached, and fine-tuning database queries.
-  -	Successfully developed healthcare-focused platforms, achieving 30% improvement in operational efficiency by automating workflows and monitoring systems.
-  -	Contributed to real-time monitoring platforms with data visualizations using D3.js and Chart.js, providing actionable insights for better decision-making.
-  -	Delivered audit-compliant systems, adhering to HIPAA, GDPR, and ISO 27001 standards, ensuring data security and privacy.
-  -	Worked on event-driven architectures with Apache Kafka and RabbitMQ, enabling asynchronous, real-time data processing and notifications.
-  - Mentored junior developers, conducted code reviews, and established best practices for clean, maintainable, and scalable codebases.
-  -	Passionate about continuous learning and staying updated with emerging technologies like GraphQL, Serverless Architecture, and WebAssembly.
-  -	Demonstrated strong problem-solving skills and a results-oriented mindset, consistently delivering projects that align with business goals and enhance user experiences.
 
-# Technical Skills
+## TECHNICAL SKILLS
 
   - Methodologies:	Software Development Life Cycle (SDLC), Agile, Waterfall, Scrum, TDD
   - Programming Languages:	C, C++, Java, JavaScript, Python, SQL
@@ -32,21 +17,12 @@
   - Backend Technologies: Spring Framework (Spring Boot, Spring MVC), Hibernate (ORM), J2EE (Servlets, JSP), RESTful APIs, JMS, JDBC, Microservices Architecture.
   - Messaging and Streaming Systems: Active MQ, JMS, SQS, and Apache Kafka
   - Database Technologies:	MySQL, Postgres, Oracle, DB2, MongoDB
-  - Cloud Technologies:	Amazon Web Services (AWS EC2, S3, SQS, Lambda, API Gateway, CloudFormation), Microsoft Azure, Google Cloud Platform (GCP)
-  - Containerization and Orchestration: CI/CD	Docker, Kubernetes, Jenkins, GitLab
-  - Version Control Tools:	Git, GitHub
-  - APIDocumentation and Testing Tools: JUnit, Mockito, Selenium
-  - Code Quality and Monitoring: Prometheus, Grafana, Log4J
-  - Development Tools and IDEs: Eclipse, Visual Studio Code, Spring Tool Suite(STS), PyCharm, Anaconda
-  - Design Patterns and Architectural Styles:	MVC, Microservices, Serverless Architecture
-  - Web Services:	RESTful APIs, SOAP, API Gateway, Swagger, GraphQL
-  - Other:	XML, JSON, Design Patterns, Linux/Unix
 
-# Professional Experience
+## PROFESSIONAL EXPERIENCE
 
-### Client: Fulcrum Digital,New York                                                                                                                               Nov 2023 - Present
-### Role: Java Full Stack Developer
-### Responsibilities:
+#### Client: Fulcrum Digital,New York                                                                                                                               Nov 2023 - Present
+#### Role: Java Full Stack Developer
+#### Responsibilities:
  
   -	Designed and developed a Dynamic Microservices Dashboard for efficient management and monitoring of distributed systems.
   -	Architected a scalable backend using Spring Boot, adhering to industry best practices for microservice architecture.
@@ -60,28 +36,11 @@
   -	Enabled runtime updates of service configurations, such as thresholds and environment variables.
   -	Containerized microservices using Docker for isolated, portable, and consistent deployments.
   -	Orchestrated services with Kubernetes, ensuring high availability and fault tolerance.
-  -	Implemented service discovery using Eureka for better communication and fault tolerance between microservices.
-  -	Deployed API Gateway with Spring Cloud Gateway for managing and routing API requests securely.
-  -	Set up CI/CD pipelines with Jenkins or GitHub Actions, automating build, test, and deployment workflows.
-  -	Optimized system performance by implementing caching and load balancing strategies.
-  -	Ensured scalability by leveraging container orchestration and dynamic resource allocation with Kubernetes.
-  -	Designed database schemas and optimized queries to handle large-scale service data efficiently.
-  -	Collaborated with DevOps teams to deploy and monitor the platform in staging and production environments.
-  -	Integrated security best practices, including API authentication, encryption, and auditing.
-  -	Designed microservice communication flows using asynchronous messaging with tools like RabbitMQ or Kafka.
-  -	Configured health checks and self-healing mechanisms for microservices to ensure reliability.
-  -	Monitored and analyzed logs for troubleshooting, debugging, and proactive issue resolution.
-  -	Developed robust error-handling mechanisms for seamless user experience and platform stability.
-  -	Implemented test-driven development (TDD) practices for high-quality and maintainable code.
-  -	Created comprehensive documentation for APIs, system architecture, and deployment processes.
-  -	Used Git for version control, managing code collaboration and maintaining deployment readiness.
-  -	Worked in an Agile environment, participating in sprint planning, stand-ups, and retrospectives.
-  -	Conducted code reviews and peer programming sessions to improve code quality and knowledge sharing.
-  -	Delivered a highly scalable and secure platform, addressing both current and future business needs.
+ 
 
-### Client: Beckton,Dickinson and Company, Madison, GA                                                                                                                Sept 2022 - Oct 2022
-### Role: Full Stack Developer
-### Responsibilities:
+#### Client: Beckton,Dickinson and Company, Madison, GA                                                                                                                Sept 2022 - Oct 2023
+#### Role: Full Stack Developer
+#### Responsibilities:
 
   -	Developed a full-stack platform for real-time monitoring and management of connected medical devices.
   -	Designed a dynamic dashboard using React/Angular for device health metrics and performance visualization.
@@ -95,24 +54,36 @@
   -	Deployed the application on AWS using containerized microservices with Docker and Kubernetes.
   -	Designed and optimized PostgreSQL and MongoDB databases for structured and unstructured data storage.
   -	Reduced device failure rates by 30% through real-time monitoring and proactive maintenance.
-  -	Improved device uptime by 40% with predictive analytics and maintenance scheduling.
-  -	Integrated data analytics features for device usage trends and performance insights.
-  -	Streamlined CI/CD pipelines using Jenkins to automate builds, testing, and deployments.
-  -	Ensured high scalability by deploying microservices architecture on Kubernetes.
-  -	Optimized resource usage with Kubernetes Horizontal Pod Autoscaler.
-  -	Enhanced user experience with a responsive and intuitive UI built with Material-UI or TailwindCSS.
-  -	Designed role-specific dashboards for administrators, technicians, and healthcare providers.
-  -	Developed a notification system for critical alerts, integrating with hospital systems.
-  -	Achieved seamless data streaming for real-time updates on device statuses.
-  -	Implemented logging and monitoring using Prometheus and Grafana for performance tracking.
-  -	Integrated AI models for anomaly detection and predictive maintenance insights.
-  -	Improved data security by encrypting sensitive device and user information.
-  -	Maintained error logs and event histories to troubleshoot device performance issues efficiently.
-  -	Enabled seamless scalability for multi-facility deployment scenarios.
-  -	Reduced deployment time by 50% with Infrastructure-as-Code using Terraform.
-  -	Achieved cross-functional collaboration by integrating tools for healthcare providers and engineers.
-  -	Optimized platform performance by streamlining backend services and database queries.
-  -	Delivered a robust, scalable solution that improved patient safety and operational efficiency.
+
+#### Client: Pheonix Global,Hyderabad,India                                                                                                                            April 2021 - July 2022
+#### Role: Software Developer
+#### Responsibilites: 
+  
+  -	Developed enterprise-grade Java applications for clients across various industries, ensuring scalability and performance.
+  -	Designed microservices architectures using Spring Boot for modular and maintainable codebases.
+  -	Built RESTful APIs to enable seamless integration between front-end applications and backend services.
+  -	Optimized database interactions with Hibernate and JPA, improving query performance by 30%.
+  -	Implemented multi-threaded processing for handling large data sets and improving system throughput.
+  -	Designed and maintained relational databases using MySQL and PostgreSQL for high-volume data storage.
+  -	Enhanced application security with Spring Security, including features like OAuth2 and JWT-based authentication.
+  -	Utilized Maven and Gradle for efficient dependency management and build automation.
+  -	Automated CI/CD pipelines using Jenkins, reducing deployment time by 40%.
+
+#### Client: Symbiosis, Visakhapatnam, India                                                                                                                          March 2019 - March 2021 
+#### Role: Intern
+#### Responsibilities:
+  
+  -	Designed and developed the user interface using Spring MVC, JSP, JSTL, JavaScript, custom tags, jQuery, HTML, and CSS to create dynamic and user-friendly web pages.
+  -	Implemented the web layer of the application with Spring MVC, including the development of controllers, views, and validators for effective user interaction and data processing.
+  -	Built the service and domain layers using Spring Framework modules such as Core-IOC and AOP, facilitating dependency injection and aspect-oriented programming for modular and maintainable    code.
+  -	Developed a robust application framework with Java, Spring, Hibernate, and Log4J to support scalable and efficient application architecture and logging.
+
+## EDUCATION
+
+  #### Master of Science, Computer Science 
+  University of Dayton,USA
+  
+
 
 
 
