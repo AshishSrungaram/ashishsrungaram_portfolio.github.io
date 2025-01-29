@@ -24,7 +24,7 @@
   -	Passionate about continuous learning and staying updated with emerging technologies like GraphQL, Serverless Architecture, and WebAssembly.
   -	Demonstrated strong problem-solving skills and a results-oriented mindset, consistently delivering projects that align with business goals and enhance user experiences.
 
-### Technical Skills
+# Technical Skills
 
   - Methodologies:	Software Development Life Cycle (SDLC), Agile, Waterfall, Scrum, TDD
   - Programming Languages:	C, C++, Java, JavaScript, Python, SQL
@@ -41,3 +41,78 @@
   - Design Patterns and Architectural Styles:	MVC, Microservices, Serverless Architecture
   - Web Services:	RESTful APIs, SOAP, API Gateway, Swagger, GraphQL
   - Other:	XML, JSON, Design Patterns, Linux/Unix
+
+# Professional Experience
+
+### Client: Fulcrum Digital,New York                                                                                                                               Nov 2023 - Present
+### Role: Java Full Stack Developer
+### Responsibilities:
+ 
+  -	Designed and developed a Dynamic Microservices Dashboard for efficient management and monitoring of distributed systems.
+  -	Architected a scalable backend using Spring Boot, adhering to industry best practices for microservice architecture.
+  -	Developed RESTful APIs for seamless interaction between services and frontend components.
+  -	Implemented an interactive UI with Angular and Material Design, providing an intuitive user experience.
+  -	Utilized RxJS and WebSockets to implement real-time updates for live service monitoring.
+  -	Integrated Prometheus and Elasticsearch for service health monitoring, log analysis, and performance tracking.
+  -	Configured PostgreSQL as the primary database for storing service configurations and logs.
+  -	Created dynamic data visualizations using D3.js or ngx-charts for traffic flow and system architecture representation.
+  -	Developed role-based access control (RBAC) to secure access to the dashboard and its features.
+  -	Enabled runtime updates of service configurations, such as thresholds and environment variables.
+  -	Containerized microservices using Docker for isolated, portable, and consistent deployments.
+  -	Orchestrated services with Kubernetes, ensuring high availability and fault tolerance.
+  -	Implemented service discovery using Eureka for better communication and fault tolerance between microservices.
+  -	Deployed API Gateway with Spring Cloud Gateway for managing and routing API requests securely.
+  -	Set up CI/CD pipelines with Jenkins or GitHub Actions, automating build, test, and deployment workflows.
+  -	Optimized system performance by implementing caching and load balancing strategies.
+  -	Ensured scalability by leveraging container orchestration and dynamic resource allocation with Kubernetes.
+  -	Designed database schemas and optimized queries to handle large-scale service data efficiently.
+  -	Collaborated with DevOps teams to deploy and monitor the platform in staging and production environments.
+  -	Integrated security best practices, including API authentication, encryption, and auditing.
+  -	Designed microservice communication flows using asynchronous messaging with tools like RabbitMQ or Kafka.
+  -	Configured health checks and self-healing mechanisms for microservices to ensure reliability.
+  -	Monitored and analyzed logs for troubleshooting, debugging, and proactive issue resolution.
+  -	Developed robust error-handling mechanisms for seamless user experience and platform stability.
+  -	Implemented test-driven development (TDD) practices for high-quality and maintainable code.
+  -	Created comprehensive documentation for APIs, system architecture, and deployment processes.
+  -	Used Git for version control, managing code collaboration and maintaining deployment readiness.
+  -	Worked in an Agile environment, participating in sprint planning, stand-ups, and retrospectives.
+  -	Conducted code reviews and peer programming sessions to improve code quality and knowledge sharing.
+  -	Delivered a highly scalable and secure platform, addressing both current and future business needs.
+
+### Client: Beckton,Dickinson and Company, Madison, GA                                                                                                                Sept 2022 - Oct 2022
+### Role: Full Stack Developer
+### Responsibilities:
+
+  -	Developed a full-stack platform for real-time monitoring and management of connected medical devices.
+  -	Designed a dynamic dashboard using React/Angular for device health metrics and performance visualization.
+  -	Implemented REST APIs with Spring Boot for seamless communication between devices and the platform.
+  -	Integrated IoT protocols like MQTT and WebSockets for real-time device communication.
+  -	Created alert management workflows to notify users of critical device issues through email and SMS.
+  -	Built predictive maintenance models using TensorFlow to forecast device failures and reduce downtime.
+  -	Maintained compliance logs for FDA and ISO standards to ensure regulatory adherence.
+  -	Automated report generation for audits and performance analysis.
+  -	Secured platform access using Spring Security and Role-Based Access Control (RBAC).
+  -	Deployed the application on AWS using containerized microservices with Docker and Kubernetes.
+  -	Designed and optimized PostgreSQL and MongoDB databases for structured and unstructured data storage.
+  -	Reduced device failure rates by 30% through real-time monitoring and proactive maintenance.
+  -	Improved device uptime by 40% with predictive analytics and maintenance scheduling.
+  -	Integrated data analytics features for device usage trends and performance insights.
+  -	Streamlined CI/CD pipelines using Jenkins to automate builds, testing, and deployments.
+  -	Ensured high scalability by deploying microservices architecture on Kubernetes.
+  -	Optimized resource usage with Kubernetes Horizontal Pod Autoscaler.
+  -	Enhanced user experience with a responsive and intuitive UI built with Material-UI or TailwindCSS.
+  -	Designed role-specific dashboards for administrators, technicians, and healthcare providers.
+  -	Developed a notification system for critical alerts, integrating with hospital systems.
+  -	Achieved seamless data streaming for real-time updates on device statuses.
+  -	Implemented logging and monitoring using Prometheus and Grafana for performance tracking.
+  -	Integrated AI models for anomaly detection and predictive maintenance insights.
+  -	Improved data security by encrypting sensitive device and user information.
+  -	Maintained error logs and event histories to troubleshoot device performance issues efficiently.
+  -	Enabled seamless scalability for multi-facility deployment scenarios.
+  -	Reduced deployment time by 50% with Infrastructure-as-Code using Terraform.
+  -	Achieved cross-functional collaboration by integrating tools for healthcare providers and engineers.
+  -	Optimized platform performance by streamlining backend services and database queries.
+  -	Delivered a robust, scalable solution that improved patient safety and operational efficiency.
+
+
+
