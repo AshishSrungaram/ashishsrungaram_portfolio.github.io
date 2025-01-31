@@ -1,2 +1,1 @@
-- name: Update dependencies
-  run: bundle update github-pages
+
